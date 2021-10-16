@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sonali-Behera
-- 👀 I’m interested in coding and open source
-- 🌱 I’m currently learning C++, frontend, backend and many more
+- 👀 I’m interested in coding and open source.
+- 🏫 Currently persuing BTech at Parala Maharaja Enginnering College, Berhampur, Odisha.
+- 🌱 I’m currently learning C++, frontend, backend and many more...
 - 💞️ I’m looking to collaborate on different open sourcce projects.
 - 📫 How to reach me: - mail id: sonalibehera.bbsr@gmail.com
 
