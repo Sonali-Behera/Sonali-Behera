@@ -59,6 +59,14 @@ Developing advanced Generative AI solutions and leading backend development proj
 
 ---
 
+## 📊 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sonalibehera" alt="LeetCode Stats"/>
+</p>
+
+---
+
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=LinkedIn)](https://www.linkedin.com/in/sonali-behera)
